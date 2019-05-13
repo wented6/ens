@@ -18,7 +18,7 @@ p1.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("564191993018974209");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Welcome to Spoil.**`), 9200)
+setTimeout(() => fuli.send(`**Welcome to Bùbbles.**`), 9200)
 }
 });
 
@@ -27,7 +27,7 @@ p2.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("564191993018974209");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Welcome to Spoil.**`), 9000)
+setTimeout(() => fuli.send(`**Welcome to Bùbbles.**`), 9000)
 }
 });
 
