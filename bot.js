@@ -106,5 +106,5 @@ p2.login(process.env.B2);
 p3.login(process.env.B3);
 p4.login(process.env.B4);
 p5.login(process.env.B5);
-p6.login(process.env.B5);
-p7.login(process.env.B5);
+p6.login(process.env.B6);
+p7.login(process.env.B7);
