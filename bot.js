@@ -14,8 +14,8 @@ const p2 = new D2.Client();
 const p3 = new D3.Client();
 const p4 = new D4.Client();
 const p5 = new D5.Client();
-const p6 = new D5.Client();
-const p7 = new D5.Client();
+const p6 = new D6.Client();
+const p7 = new D7.Client();
 
 
 
