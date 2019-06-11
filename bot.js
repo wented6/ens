@@ -71,7 +71,7 @@ p5.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("585748291476783104");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`_Hi , You’R in **Dureté.**_`), 18000)
+setTimeout(() => fuli.send(`_Hi , You’R in **Dureté.**_`), 10800)
 }
 });
 
