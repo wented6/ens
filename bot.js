@@ -107,7 +107,7 @@ setTimeout(() => fuli.send(`_Hi , You’R in **Dureté.**_`), 12600)
 });
 
    console.log("oNNN8");
-p7.on('guildMemberAdd', member => {
+p8.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("579611842486337546");
 if(!fuli) return;
 if(fuli) {
@@ -119,7 +119,7 @@ setTimeout(() => fuli.send(`You are in **Dm** welcome..`), 7000)
 
 
    console.log("oNNN9");
-p7.on('guildMemberAdd', member => {
+p9.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("579611842486337546");
 if(!fuli) return;
 if(fuli) {
